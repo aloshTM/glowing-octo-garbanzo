@@ -1,0 +1,32 @@
+[
+  {
+    "uuid": "12243e14-bf72-3589-b1b6-3d7c332938bf",
+    "name": "boxer",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "9566ae30-d90c-3099-8c92-e67f44c7377d",
+    "name": "Lesbeckett",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2eb6166f-e142-323b-a94f-a805831753e4",
+    "name": "lil_boxer_23",
+    "level": 4,
+    "bypassesPlayerLimit": true
+  },
+  {
+    "uuid": "61448307-da68-37a0-b722-996f8caf3946",
+    "name": "Jake_",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "894017ed-e440-384e-9edf-7adbfe0cf9f7",
+    "name": "ZACHISBETTER72",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
